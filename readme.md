@@ -2,17 +2,25 @@
 
 ## Frontend questions
 
-1. [Que es el DOM?](#que-es-el-dom-?)
-   Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it.
-   Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it.
-   Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it.
-   Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it.
-   Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it.
-   Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it.
-   Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it.
-   Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it.
+1. [DOM?](#dom)
 
-### Que es el DOM?
+## Frontend questions
+
+## Frontend questions
+
+## Frontend questions
+
+## Frontend questions
+
+## Frontend questions
+
+## Frontend questions
+
+## Frontend questions
+
+## Frontend questions
+
+### DOM?
 
 ---
 
