@@ -4,7 +4,7 @@
 
 1. [DOM](#dom)
 2. [Virtual-DOM](#virtual-dom)
-3. [HOC](#hoc)
+3. [HOC](#HOC)
 4. [Hooks](#hooks)
 5. [Context](#context)
 6. [Lazy loading](#lazy-loading)
